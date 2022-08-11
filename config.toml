@@ -1,0 +1,4 @@
+baseURL = 'http://www.climatehvn.org/'
+languageCode = 'en-us'
+title = 'ClimateHVN'
+theme = "climatehvn"
